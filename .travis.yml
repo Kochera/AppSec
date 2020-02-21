@@ -1,5 +1,3 @@
-language: python: 2.7.16
+language: python:2.7.16
 
-os: [
-    "windows"
-]
+os: windows
