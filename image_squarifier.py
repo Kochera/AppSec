@@ -1,3 +1,5 @@
+from PIL import Image
+
 def make_square(im, min_size=256):
     x, y = im.size
     size = max(min_size, x, y)
