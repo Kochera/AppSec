@@ -1,9 +1,6 @@
-from PIL import Image
-
 def make_square(im, min_size=256):
     x, y = im.size
     size = max(min_size, x, y)
-    new_im = Image.new('RGBA', (size, size), fill_color)
     new_im = im.resize((size,size))
     return new_im
 
