@@ -32,7 +32,7 @@ To Run image_squarifier.py:
 3. cd to (your) correct directory with the provided code
 4. Run python image_squarifier.py
 5. Provide the path for the image that needs to be scaled to a square
-6. An outputted squarified image will be displayed and then saved to your working directory with the new filename provided by the executor
+6. An outputted squarified image will be displayed and then saved to your working directory with the new filename and extension (.png) provided by the executor
 
 ## Contributing
 This project was done in collaboration with Ranjitha Gurushanthappa.
